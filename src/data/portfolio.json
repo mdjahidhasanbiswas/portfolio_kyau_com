@@ -1,0 +1,55 @@
+﻿{
+  "name": "Dip Chowdhury",
+  "role": "CSE Student",
+  "tagline": "Learning to build things that feel simple and work well.",
+  "location": "Dhaka, Bangladesh",
+  "email": "alex@example.com",
+  "resumeUrl": "#",
+  "about": {
+    "heading": "About",
+    "body": "I'm a second-year Computer Science student who enjoys turning ideas into small, useful projects. I care about clean code, clear UI, and learning in public."
+  },
+  "skills": [
+    "HTML & CSS",
+    "JavaScript",
+    "React",
+    "Python",
+    "Git",
+    "Problem Solving"
+  ],
+  "projects": [
+    {
+      "title": "Campus Finder",
+      "year": "2025",
+      "description": "A simple map-style app that helps new students find classrooms and labs on campus.",
+      "tags": ["React", "Maps"],
+      "url": "https://github.com",
+      "repo": "https://github.com"
+    },
+    {
+      "title": "Study Timer",
+      "year": "2025",
+      "description": "Pomodoro-style focus timer with session history, built while learning local storage.",
+      "tags": ["JavaScript", "CSS"],
+      "url": "https://github.com",
+      "repo": "https://github.com"
+    },
+    {
+      "title": "Notes API",
+      "year": "2024",
+      "description": "REST API for personal notes with basic auth — my first backend project.",
+      "tags": ["Python", "Flask"],
+      "url": "https://github.com",
+      "repo": "https://github.com"
+    }
+  ],
+  "contact": {
+    "heading": "Let's talk",
+    "body": "Open to internships, class projects, and collabs. Say hello anytime."
+  },
+  "socials": [
+    { "label": "GitHub", "url": "https://github.com" },
+    { "label": "LinkedIn", "url": "https://linkedin.com" },
+    { "label": "Email", "url": "mailto:alex@example.com" }
+  ]
+}
