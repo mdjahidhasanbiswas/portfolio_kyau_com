@@ -1,13 +1,13 @@
 ﻿{
-  "name": "Dip Chowdhury",
+  "name": "Md. Jahid Hasan",
   "role": "CSE Student",
   "tagline": "Learning to build things that feel simple and work well.",
-  "location": "Dhaka, Bangladesh",
-  "email": "alex@example.com",
+  "location": "Sirajganj, Bangladesh",
+  "email": "jahid123@gmail.com",
   "resumeUrl": "#",
   "about": {
     "heading": "About",
-    "body": "I'm a second-year Computer Science student who enjoys turning ideas into small, useful projects. I care about clean code, clear UI, and learning in public."
+    "body": "I'm a First-year Computer Science student who enjoys turning ideas into small, useful projects. I care about clean code, clear UI, and learning in public."
   },
   "skills": [
     "HTML & CSS",
